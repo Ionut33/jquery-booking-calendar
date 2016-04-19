@@ -1,1 +1,20 @@
-{"author":{"name":"https://github.com/angular-ui/bootstrap/graphs/contributors"},"name":"angular-bootstrap","keywords":["angular","angular-ui","bootstrap"],"license":"MIT","ignore":[],"description":"Native AngularJS (Angular) directives for Bootstrap.","version":"0.14.0","main":["./ui-bootstrap-tpls.js"],"dependencies":{"angular":">=1.3.0"}}
+{
+  "name": "jquery-booking-calendar",
+  "homepage": "https://github.com/Ionut33/jquery-booking-calendar",
+  "authors": [
+    "Ionut Moldovan <ionut.moldovan@gosocialdev.eu>"
+  ],
+  "description": "",
+  "main": "base.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
